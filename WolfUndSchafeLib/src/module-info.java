@@ -1,0 +1,3 @@
+module wolfUndSchafeLib {
+	exports wolfUndSchafeLib;
+}
